@@ -1,7 +1,7 @@
-# 👋 Hi, I'm David
+# 👋 Hi, I'm Mmeyaknno David
 
 <p align="center">
-  <b>💻 Developer | 🌐 Backend Enthusiast | ⚽ Footballer</b>
+  <b>💻 Developer | 🌐 Backend Enthusiast </b>
 </p>
 
 ---
@@ -13,7 +13,7 @@
   <li>🌐 Interested in <b>web development and backend systems</b></li>
   <li>🛠️ I enjoy building real-world projects from scratch</li>
   <li>📊 I create educational materials (PDFs, tests, classwork)</li>
-  <li>⚽ I’m also a footballer</li>
+  <li>⚽ Also I play football for fun</li>
 </ul>
 
 ---
