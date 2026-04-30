@@ -1,4 +1,4 @@
-# 👋 Hi, I'm David
+# 👋 Hi, I'm Mmeyaknno David
 
 Welcome to my GitHub!  
 I'm a passionate developer who enjoys building practical applications, learning new technologies, and solving real-world problems through code.
