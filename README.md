@@ -1,72 +1,90 @@
-# 👋 Hi, I'm Mmeyaknno David
+# 👋 Hi, I'm David
 
-Welcome to my GitHub!  
-I'm a passionate developer who enjoys building practical applications, learning new technologies, and solving real-world problems through code.
+<p align="center">
+  <b>💻 Developer | 🌐 Backend Enthusiast | ⚽ Footballer</b>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I work with **C, Python, Java (Jakarta/Servlets), and Dart**
-- 🌐 Interested in **web development and backend systems**
-- 🛠️ I like building projects from scratch (e.g. landing pages, management systems)
-- 📊 I also create educational materials (PDFs, tests, classwork, etc.)
-- ⚽ Fun fact: I'm also a **footballer**
+<ul>
+  <li>💻 I work with <b>C, Python, Java (Jakarta/Servlets), and Dart</b></li>
+  <li>🌐 Interested in <b>web development and backend systems</b></li>
+  <li>🛠️ I enjoy building real-world projects from scratch</li>
+  <li>📊 I create educational materials (PDFs, tests, classwork)</li>
+  <li>⚽ I’m also a footballer</li>
+</ul>
 
 ---
 
-## 🧠 What I’m Currently Learning
+## 🧠 Currently Learning
 
-- Advanced **web development (Jakarta, Flask, GitHub hosting)**
-- Better **project structure and deployment**
-- Improving my **problem-solving and clean code practices**
-
----
-
-## 📂 Projects You’ll Find Here
-
-- 🏨 **Airbnb Clone (Jakarta)**  
-  Landing page + item screen built using Java web technologies
-
-- 🍽️ **Restaurant Order Management System (C)**  
-  Console-based system for managing food orders
-
-- 📊 **Educational Resources**  
-  - Statistical data representation (charts, PDFs)  
-  - Microsoft Word & Excel test materials  
-
-- 🧪 **Practice Scripts**
-  - JSON decoding in Dart  
-  - Age detection logic in Python  
-  - Error handling examples  
+<ul>
+  <li>📘 Advanced web development (Jakarta, Flask)</li>
+  <li>📦 Project structure & deployment</li>
+  <li>💡 Clean code & problem solving</li>
+</ul>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 📂 Projects
 
-- Languages: `C`, `Python`, `Java`, `Dart`
-- Tools: `Git`, `GitHub`, `Figma`, `VS Code`, `Eclipse`
-- Web: `HTML`, `CSS`, basic backend frameworks
-- Others: PDF generation, PowerPoint creation
+<ul>
+  <li>🏨 <b>Airbnb Clone (Jakarta)</b> – Landing page + item screen</li>
+  <li>🍽️ <b>Restaurant Order Management System (C)</b></li>
+  <li>📊 <b>Educational Resources</b> – Charts, PDFs, tests</li>
+  <li>🧪 <b>Practice Scripts</b> – Python & Dart</li>
+</ul>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+
+<!-- Web -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+
+<!-- Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+
+</p>
 
 ---
 
 ## 📈 Goals
 
-- Build more **real-world applications**
-- Improve my **UI/UX and frontend skills**
-- Learn **full-stack development deeply**
-- Start deploying live projects online
+<ul>
+  <li>🚀 Build more real-world applications</li>
+  <li>🎨 Improve UI/UX and frontend skills</li>
+  <li>🧱 Master full-stack development</li>
+  <li>☁️ Deploy live projects</li>
+</ul>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-- 💬 Open to collaboration, learning, and sharing ideas
-- 📌 Feel free to check out my projects and give feedback!
+<p>
+💬 Open to collaboration, learning, and sharing ideas.<br/>
+📌 Feel free to explore my projects and give feedback!
+</p>
 
 ---
 
 ## ⭐ Final Note
 
-I’m constantly learning and improving, so expect more projects and updates soon.
+<p align="center">
+  I’m constantly learning and improving 🚀<br/>
+  <b>More projects coming soon!</b>
+</p>
